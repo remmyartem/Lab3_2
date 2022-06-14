@@ -1,0 +1,16 @@
+E:\Programs\Visual\Projects\Artem\Artem\bin\Debug\net5.0\Artem.exe
+E:\Programs\Visual\Projects\Artem\Artem\bin\Debug\net5.0\Artem.deps.json
+E:\Programs\Visual\Projects\Artem\Artem\bin\Debug\net5.0\Artem.runtimeconfig.json
+E:\Programs\Visual\Projects\Artem\Artem\bin\Debug\net5.0\Artem.runtimeconfig.dev.json
+E:\Programs\Visual\Projects\Artem\Artem\bin\Debug\net5.0\Artem.dll
+E:\Programs\Visual\Projects\Artem\Artem\bin\Debug\net5.0\ref\Artem.dll
+E:\Programs\Visual\Projects\Artem\Artem\bin\Debug\net5.0\Artem.pdb
+E:\Programs\Visual\Projects\Artem\Artem\obj\Debug\net5.0\Artem.csproj.AssemblyReference.cache
+E:\Programs\Visual\Projects\Artem\Artem\obj\Debug\net5.0\Artem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\Visual\Projects\Artem\Artem\obj\Debug\net5.0\Artem.AssemblyInfoInputs.cache
+E:\Programs\Visual\Projects\Artem\Artem\obj\Debug\net5.0\Artem.AssemblyInfo.cs
+E:\Programs\Visual\Projects\Artem\Artem\obj\Debug\net5.0\Artem.csproj.CoreCompileInputs.cache
+E:\Programs\Visual\Projects\Artem\Artem\obj\Debug\net5.0\Artem.dll
+E:\Programs\Visual\Projects\Artem\Artem\obj\Debug\net5.0\ref\Artem.dll
+E:\Programs\Visual\Projects\Artem\Artem\obj\Debug\net5.0\Artem.pdb
+E:\Programs\Visual\Projects\Artem\Artem\obj\Debug\net5.0\Artem.genruntimeconfig.cache
